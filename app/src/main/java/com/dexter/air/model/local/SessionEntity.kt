@@ -1,4 +1,4 @@
-package com.dexter.air.model
+package com.dexter.air.model.local
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

@@ -1,4 +1,4 @@
-package com.dexter.air.model
+package com.dexter.air.model.local
 
 import android.content.Context
 import androidx.room.Database
