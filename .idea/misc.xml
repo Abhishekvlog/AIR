@@ -5,9 +5,12 @@
       <map>
         <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/drawable/markes.xml" value="0.1315" />
         <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/layout/fragment_days.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/layout/fragment_detail.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/layout/item_detail.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/layout/item_layout.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/layout/marker_view.xml" value="0.4" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/AIR/app/src/main/res/menu/days_menu.xml" value="0.23802083333333332" />
       </map>
     </option>
   </component>

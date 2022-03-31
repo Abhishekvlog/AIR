@@ -7,7 +7,7 @@ import androidx.room.RoomDatabase
 
 @Database(entities = [SessionEntity::class], version = 1)
 abstract class SessionDatabase : RoomDatabase() {
-    abstract fun getSessionDAO() : SessionDAO
+    abstract fun getSessionDAO() : DAO
 
     companion object {
         private var instance: SessionDatabase? = null
